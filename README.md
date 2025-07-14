@@ -20,7 +20,6 @@ A fully functional, responsive JavaScript image slider with smooth transitions a
 ## 🌐 Live Demo
 
 👉 [View on GitHub Pages](https://yashsarode31.github.io/Image-Slider/)  
-*(Replace this with your actual deployed link)*
 
 ## 📷 Preview
 
@@ -32,14 +31,3 @@ A fully functional, responsive JavaScript image slider with smooth transitions a
 git clone https://github.com/YOUR_USERNAME/image-slider.git
 cd image-slider
 open index.html
-
-🧠 What I Learned
-DOM manipulation with querySelectorAll and classList
-
-Handling DOMContentLoaded events correctly
-
-Writing reusable JavaScript functions (nextSlide(), showSlide(), etc.)
-
-Creating smooth animations with CSS @keyframes
-
-Using object-fit and max-width for clean, responsive design
